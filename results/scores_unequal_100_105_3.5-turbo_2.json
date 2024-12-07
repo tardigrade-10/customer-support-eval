@@ -1,0 +1,94 @@
+{
+    "scores": {
+        "f8c8a244-daf9-46c8-be8c-9f6e8907e619": {
+            "response1": {
+                "clarity_and_directness": 8,
+                "completeness": 8,
+                "relevance": 8,
+                "truthfulness": 10,
+                "tone_and_customer_friendliness": 9,
+                "overall": 8.6
+            },
+            "response2": {
+                "clarity_and_directness": 7,
+                "completeness": 7,
+                "relevance": 8,
+                "truthfulness": 10,
+                "tone_and_customer_friendliness": 9,
+                "overall": 8.2
+            }
+        },
+        "d7a1f530-b325-4796-8d20-a147d4ce2ff4": {
+            "response1": {
+                "clarity_and_directness": 8,
+                "completeness": 7,
+                "relevance": 8,
+                "truthfulness": 9,
+                "tone_and_customer_friendliness": 9,
+                "overall": 8.2
+            },
+            "response2": {
+                "clarity_and_directness": 7,
+                "completeness": 6,
+                "relevance": 7,
+                "truthfulness": 8,
+                "tone_and_customer_friendliness": 8,
+                "overall": 7.2
+            }
+        },
+        "cc6e351a-9420-4303-84ed-37f30e6b500f": {
+            "response1": {
+                "clarity_and_directness": 8,
+                "completeness": 7,
+                "relevance": 8,
+                "truthfulness": 9,
+                "tone_and_customer_friendliness": 8,
+                "overall": 8
+            },
+            "response2": {
+                "clarity_and_directness": 7,
+                "completeness": 6,
+                "relevance": 6,
+                "truthfulness": 8,
+                "tone_and_customer_friendliness": 7,
+                "overall": 7
+            }
+        },
+        "69e58ae5-74be-450a-a407-c354b62e59fd": {
+            "response1": {
+                "clarity_and_directness": 8,
+                "completeness": 7,
+                "relevance": 8,
+                "truthfulness": 8,
+                "tone_and_customer_friendliness": 9,
+                "overall": 8
+            },
+            "response2": {
+                "clarity_and_directness": 9,
+                "completeness": 8,
+                "relevance": 8,
+                "truthfulness": 8,
+                "tone_and_customer_friendliness": 9,
+                "overall": 8.5
+            }
+        },
+        "30aca93a-2576-4ae3-8b64-7df63cb46fbe": {
+            "response1": {
+                "clarity_and_directness": 7,
+                "completeness": 6,
+                "relevance": 6,
+                "truthfulness": 9,
+                "tone_and_customer_friendliness": 8,
+                "overall": 7.2
+            },
+            "response2": {
+                "clarity_and_directness": 4,
+                "completeness": 4,
+                "relevance": 4,
+                "truthfulness": 9,
+                "tone_and_customer_friendliness": 7,
+                "overall": 5.8
+            }
+        }
+    }
+}
